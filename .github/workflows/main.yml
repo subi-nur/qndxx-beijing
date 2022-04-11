@@ -3,7 +3,7 @@ name: AutoQNDXX
 on:
   schedule:
     # Run at 8:00 on every Tuesday.
-    - cron: '12 10  * * 2'
+    - cron: '25 15  * * 1'
     
   workflow_dispatch:
 
